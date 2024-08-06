@@ -1,0 +1,6 @@
+@BGService_HostAddress = http://localhost:5015
+
+GET {{BGService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

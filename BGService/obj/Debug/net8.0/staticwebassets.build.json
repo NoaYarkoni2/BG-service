@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LcO8wNn78Sx5kke6FP448prktGowFsrsj3FA/9z+E/U=",
+  "Source": "BGService",
+  "BasePath": "_content/BGService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
